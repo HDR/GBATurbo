@@ -19,7 +19,7 @@ Part List:
 
 
 * An Arduino (yes really)
-* A 10uF Capacitor to bridge GND & Reset on the Arduino
+* A 10uF/25V Capacitor to bridge GND & Reset on the Arduino
 * The Arduino Software
 
 ### Pinout
