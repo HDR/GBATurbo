@@ -43,6 +43,7 @@ Part List:
 
 4. Under tools set up the following settings.
 
+|  Setting |  Value  |
 |:-----:|:-------:|
 |  Board  |    ATtiny25/45/85   |
 |  Processor |    Atiny85   |
