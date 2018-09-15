@@ -1,5 +1,5 @@
 # GBATurbo
-Cheap DIY speed adjustment for the GBA
+Cheap DIY game speed adjuster for the GBA
 
 Costs about 8 USD
 
