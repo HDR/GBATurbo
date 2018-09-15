@@ -1,8 +1,11 @@
 # GBATurbo
 Cheap DIY game speed adjuster for the GBA
 
-Costs about 8 USD
+Cost is about 8 USD.
 
+[OSHPark Project](https://www.oshpark.com/shared_projects/WZH41CYL)
+
+Note: These are untested, and no flashable code has been written for the ATtiny85
 
 Part List:
 
