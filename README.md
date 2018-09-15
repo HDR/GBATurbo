@@ -50,6 +50,6 @@ Part List:
 |:-----:|:-------:|
 |  Board  |    ATtiny25/45/85   |
 |  Processor |    Atiny85   |
-|  Clock |    Internal 1 MHz   |
+|  Clock |    Internal 8 MHz   |
 |  Port  |    COMX (Arduino *)   |
 |  Programmer  |   Arduino as ISP   |
