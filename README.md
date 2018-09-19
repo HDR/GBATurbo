@@ -42,7 +42,7 @@ Part List:
 
 2. Go to Tools > Board > Manager and find "ATTiny" and install it.
 
-3. Connect your arduino based on the pins listed above, don't forget the 10uF capacitor to bridge GND & Reset on the arduino.
+3. Connect your arduino based on the pins listed above, don't forget the 10uF capacitor to bridge GND & Reset on the arduino. (Make sure the anode goes to ground)
 
 4. Under tools set up the following settings.
 
