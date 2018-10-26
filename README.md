@@ -50,7 +50,7 @@ BOM:
 |  GND  |   GND   |    GND   |
 
 
-![Wiring](
+![Wiring](Flashing_Diagram.png)
 
 ### Flashing the Attiny85
 
