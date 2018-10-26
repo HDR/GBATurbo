@@ -42,12 +42,15 @@ BOM:
 
 |  Name | Arduino | GBATurbo |
 |:-----:|:-------:|:--------:|
-| Reset |    10   |    RST   |
+| Reset |    10   |    Reset   |
 |  MOSI |    11   |   MOSI   |
 |  MISO |    12   |   MISO   |
 |  SCK  |    13   |    SCK   |
 |  VCC  |   +5V   |    VCC   |
 |  GND  |   GND   |    GND   |
+
+
+![Wiring](
 
 ### Flashing the Attiny85
 
