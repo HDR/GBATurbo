@@ -1,9 +1,9 @@
 # GBATurbo
 Cheap DIY game speed adjuster for the GBA
 
-The entire pcb and it's components come in at around 8 USD
+The entire pcb and it's components come in at around 6.50 USD
 
-The PCB measures 11.9 by 11.2 mm.
+The PCB measures 20.5 by 9.8 mm.
 
 [OSHPark Project](https://www.oshpark.com/shared_projects/w5yUIHU1)
 
@@ -18,13 +18,15 @@ The PCB measures 11.9 by 11.2 mm.
 
 Note: These are untested, and no flashable code has been written for the ATtiny85
 
-Part List:
+BOM:
 
-[MCP4151-503E](https://www.digikey.com/short/jw8d82)
+**U1:** [ATtiny85-20SUR](https://www.arrow.com/en/products/attiny85-20sur/microchip-technology)
 
-[ATtiny85-20SUR](https://www.digikey.com/short/jw8dpp)
+**U2:** [MCP4151-503E](https://www.arrow.com/en/products/mcp4151-503esn/microchip-technology)
 
-[LTC1799HS5](https://www.digikey.com/short/jw8dzf)
+**U3:** [LTC1799CS5](https://www.arrow.com/en/products/ltc1799cs5trmpbf/analog-devices)
+
+**C1:** [Capacitor 0603 0.1uF](https://www.arrow.com/en/products/c0603x104k3ractu/kemet-corporation)
 
 
 ## Flashing with an arduino
