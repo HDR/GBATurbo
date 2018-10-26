@@ -1,7 +1,7 @@
 # GBATurbo
 Cheap DIY game speed adjuster for the GBA
 
-The entire pcb and it's components come in at around 6.50 USD
+The entire pcb and it's components come in at around 5.50 USD
 
 The PCB measures 20.5 by 9.8 mm.
 
