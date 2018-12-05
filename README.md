@@ -54,13 +54,15 @@ BOM:
 
 ### Flashing the Attiny85
 
-1. Open Ardiuno IDE and click "File > Preferences" and paste this url ```https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json``` into "Additional board manager urls"
+1. Open the Arduino ide and click "File > Examples > ArduinoISP > ArduinoISP" and upload this sketch to your uno.
 
-2. Go to Tools > Board > Manager and find "ATTiny" and install it.
+2. Click "File > Preferences" and paste this url ```https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json``` into "Additional board manager urls"
 
-3. Connect your arduino based on the pins listed above, don't forget the 10uF capacitor to bridge GND & Reset on the arduino. (Make sure the anode goes to ground)
+3. Go to Tools > Board > Manager and find "ATTiny" and install it.
 
-4. Under tools set up the following settings.
+4. Connect your arduino based on the pins listed above, don't forget the 10uF capacitor to bridge GND & Reset on the arduino. (Make sure the anode goes to ground)
+
+5. Under tools set up the following settings.
 
 |  Setting |  Value  |
 |:-----:|:-------:|
@@ -69,3 +71,5 @@ BOM:
 |  Clock |    Internal 8 MHz   |
 |  Port  |    COMX (Arduino *)   |
 |  Programmer  |   Arduino as ISP   |
+
+6. Click "Tools > Burn Bootloader"
